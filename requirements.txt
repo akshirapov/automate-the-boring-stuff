@@ -9,7 +9,7 @@ IMAPClient==2.1.0
 jdcal==1.4.1
 lxml==4.3.4
 openpyxl==2.3.3
-Pillow==6.2.0
+Pillow==8.3.2
 PyAutoGUI==0.9.45
 PyGetWindow==0.0.6
 PyJWT==1.7.1
