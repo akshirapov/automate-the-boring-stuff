@@ -14,7 +14,7 @@ PyAutoGUI==0.9.45
 PyGetWindow==0.0.6
 PyJWT==1.7.1
 PyMsgBox==1.0.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyperclip==1.7.0
 PyRect==0.1.4
 PyScreeze==0.1.22
