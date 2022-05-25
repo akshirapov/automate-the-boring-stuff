@@ -12,7 +12,7 @@ openpyxl==2.3.3
 Pillow==6.2.0
 PyAutoGUI==0.9.45
 PyGetWindow==0.0.6
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyMsgBox==1.0.7
 PyPDF2==1.26.0
 pyperclip==1.7.0
