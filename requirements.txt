@@ -8,7 +8,7 @@ idna==2.8
 IMAPClient==2.1.0
 jdcal==1.4.1
 lxml==4.3.4
-openpyxl==2.3.3
+openpyxl==2.4.2
 Pillow==6.2.0
 PyAutoGUI==0.9.45
 PyGetWindow==0.0.6
