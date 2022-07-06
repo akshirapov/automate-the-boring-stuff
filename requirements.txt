@@ -7,7 +7,7 @@ html5lib==1.0.1
 idna==2.8
 IMAPClient==2.1.0
 jdcal==1.4.1
-lxml==4.3.4
+lxml==4.9.1
 openpyxl==2.3.3
 Pillow==6.2.0
 PyAutoGUI==0.9.45
